@@ -3,11 +3,7 @@ task:
     title: 'Task 2: Build a compelling brand using Microsoft Copilot'
 ---
 
-The ability to quickly generate content can be essential for extending your work. Microsoft Copilot empowers users to rapidly create various outputs using its powerful capabilities. By using Copilot, you can generate creative elements that enhance your projects.
-
-This exercise demonstrates how to use Microsoft Copilot to quickly generate a range of creative outputs. It showcases the practical application of Copilot's features, emphasizing how you can extend your work in innovative ways.
-
-### Exercise
+# Task 2: Build a compelling brand using Microsoft Copilot
 
 Using Copilot, create core branding elements by designing a logo and a catchy slogan that embody the essence of your app or service.
 
@@ -15,7 +11,7 @@ Using Copilot, create core branding elements by designing a logo and a catchy sl
     <strong>Note:</strong> In the instructions below, we will provide a sample prompt for each step. While you have the option to copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. Remember to enjoy the process!
 </div>
 
-#### Steps
+## Steps
 
 - **Create a Logo**:
 

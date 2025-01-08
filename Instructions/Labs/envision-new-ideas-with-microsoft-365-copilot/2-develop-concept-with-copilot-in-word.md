@@ -3,23 +3,17 @@ task:
     title: 'Task 2: Develop a concept using Microsoft 365 Copilot in Word'
 ---
 
-Microsoft 365 Copilot in Word transforms document creation and refinement, allowing you to produce compelling content with ease. Copilot assists with drafting from scratch, enhancing existing text, and distilling the essence of lengthy articles. With Copilot, you can start a document using brief prompts, seamlessly incorporate resources from across Microsoft 365, and adjust both tone and conciseness.
+# Task 2: Develop a concept using Microsoft 365 Copilot in Word
 
-### Exercise
-
-In the previous exercise, you researched company or product ideas and saved your notes to a document titled **Copilot Research.docx**.
-
-In this exercise, you'll use Copilot in Word to  articulate a comprehensive concept that includes the mission, vision, values, proposed offerings, target audience, and distinctive edge of your proposed company or product. Follow the prompts to have Copilot generate your concept and then refine it based on your input.
-
-To reference the file, use the shared link to **Copilot Research.docx**.
+Using Copilot in Word, articulate a comprehensive concept that includes the mission, vision, goals, proposed services or initiatives, target audience, and distinctive benefits of your idea.
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> In the instructions below, we will provide a sample prompt for each step. While you have the option to copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. Remember to enjoy the process!
 </div>
 
-#### Steps
+## Steps
 
-1. Open the **Copilot Research.docx** document that you saved to your OneDrive account in the previous exercise. Copy its URL by selecting **Share** in the upper-right corner and choosing **Copy Link** from the drop-down menu.
+1. Open the **Copilot Research.docx** document that you saved to your OneDrive account in the previous task. Copy its URL by selecting **Share** in the upper-right corner and choosing **Copy Link** from the drop-down menu.
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -31,11 +25,10 @@ To reference the file, use the shared link to **Copilot Research.docx**.
 
     ![Screenshot showing draft with Copilot in Word.](../Media/draft-with-copilot.png)
 
-
 1. Enter the following prompt:
 
     ```text
-    Draft a concept for our new [company or product] referencing [link to Copilot Research.docx], including its mission, vision, core values, offerings, target audience, and unique market edge.
+    Draft a concept for our new [government service, program, or initiative], referencing [link to Copilot Research.docx]. Include its mission, vision, core objectives, proposed services or benefits, target audience, and key impact areas.
     ```
 
     <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
@@ -48,10 +41,10 @@ To reference the file, use the shared link to **Copilot Research.docx**.
 
     However, if you'd like to refine the document further, explore the information in the **Iterate and Revise** section below.
 
-1. Save the file to OneDrive as **Product Concept.docx**. You’ll use this document in the next exercise.
+1. Save the file to OneDrive as **Service Concept.docx**. You’ll use this document in the next task.
 
     <div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c; margin-top: 15px;"> 
-        <strong>Important:</strong> Make sure to save the file to OneDrive instead of your local PC, as the next exercise in PowerPoint will require Copilot to access it.
+        <strong>Important:</strong> Make sure to save the file to OneDrive instead of your local PC, as the next task in PowerPoint will require Copilot to access it.
     </div>
 
 ### Iterate and Revise
@@ -61,7 +54,7 @@ The iterative and revision process involves refining and improving upon an initi
 For example, you might start with an initial draft of a concept and prompt the following:
 
 ```text
-Can you refine this concept by making it more persuasive for potential sponsors?
+Can you refine this concept by making it more persuasive for potential stakeholders?
 ```
 
 After reviewing the updated version, you may further improve the document by focusing on specific sections, such as:

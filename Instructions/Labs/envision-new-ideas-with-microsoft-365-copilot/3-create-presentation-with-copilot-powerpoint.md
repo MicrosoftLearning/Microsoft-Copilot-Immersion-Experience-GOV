@@ -3,24 +3,17 @@ task:
     title: 'Task 3: Create a presentation using Microsoft 365 Copilot in PowerPoint'
 ---
 
-Microsoft 365 Copilot in PowerPoint acts as your presentation assistant, transforming your concepts into impactful slides. With Copilot, you can seamlessly convert written documents into presentation decks, complete with speaker notes and references. Starting a new presentation is as easy as providing an outline or prompt and letting Copilot do the heavy lifting. Beyond creation, Copilot also includes tools to streamline lengthy presentations and offers intuitive commands to refine layouts, adjust text formatting, and synchronize animations.
+# Task 3: Create a presentation using Microsoft 365 Copilot in PowerPoint
 
-### Exercise
-
-In the previous exercise, you used Microsoft 365 Copilot in Word to create a new product or company concept document. This document, titled **Product Concept.docx**, includes the mission, vision, values, proposed offerings, target audience, and unique value of your proposed company or product.
-
-In this exercise, you'll use Copilot in PowerPoint to create a pitch deck designed to capture the attention of your board of directors. Emphasize the unique value proposition, market potential, and competitive edge of your business idea or product concept.
-
-To reference the file in Copilot, this exercise will use the shared file link.
+Using Copilot in PowerPoint, create a presentation designed to capture the attention of senior leadership or key stakeholders. Highlight the unique value proposition, potential impact, and alignment with the agency's mission and goals.
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> In the instructions below, we will provide a sample prompt for each step. While you have the option to copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. Remember to enjoy the process!
 </div>
 
+## Steps
 
-#### Steps
-
-1. Open the **Product Concept.docx** document that you saved to your OneDrive account in the previous exercise. Copy its URL by selecting the **Share** button in the upper-right corner, then select **Copy Link** from the menu.
+1. Open the **Service Concept.docx** document that you saved to your OneDrive account in the previous task. Copy its URL by selecting the **Share** button in the upper-right corner, then select **Copy Link** from the menu.
 
     ![Screenshot showing the Share menu and the Copy Link option highlighted.](../Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -30,15 +23,15 @@ To reference the file in Copilot, this exercise will use the shared file link.
 
 1. In the Copilot pane, select the "Create presentation from file" prompt.
 
-1. Paste the **Product Concept.docx** link after "Create a presentation from" and select **Send**.
+1. Paste the **Service Concept.docx** link after "Create a presentation from" and select **Send**.
 
     The full prompt should look like:
 
     ```text
-    Create a presentation from [Link to Product Concept.docx].
+    Create a presentation from [Link to Service Concept.docx].
     ```
 
-1. Copilot will begin generating slides based on the Product Concept document, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
+1. Copilot will begin generating slides based on the Service Concept document, providing an outline along with features like speaker notes, images, slide layouts, and a General sensitivity label.
 
     <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
         <strong>Note:</strong> Generating slides may take up to two minutes, depending on the document’s complexity and number of slides.
@@ -65,7 +58,7 @@ Copilot in PowerPoint offers powerful tools to optimize and enhance presentation
 - **Add new content**: Have Copilot add slides to address critical aspects of your concept, such as potential challenges and strategies:
 
     ```text
-    Add 2 slides detailing potential challenges this new product may face, and include a slide that outlines key strategies to mitigate those challenges.
+    Add 2 slides detailing potential challenges this new service may face, and include a slide that outlines key strategies to mitigate those challenges.
     ```
 
 Experiment with these prompts to create engaging, polished presentations while learning to iterate and enhance designs with Copilot’s intelligent recommendations.
