@@ -3,7 +3,7 @@ task:
     title: 'Index 1'
 ---
 
-## Growing your AI skills - Microsoft 365 Copilot
+## Microsoft 365 Copilot Immersion Experience 
 
 In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
 

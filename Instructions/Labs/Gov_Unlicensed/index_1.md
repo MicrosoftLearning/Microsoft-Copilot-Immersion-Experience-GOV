@@ -3,7 +3,7 @@ task:
     title: 'Index 1'
 ---
 
-## Growing your AI skills - Microsoft Copilot
+## Microsoft Copilot Immersion Experience
 
 In this interactive experience, you'll Envision and develop a new app or service that has the potential to disrupt any sector of your choice, whether it’s real or imagined. 
 
