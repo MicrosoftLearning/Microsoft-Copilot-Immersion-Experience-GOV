@@ -10,7 +10,7 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
 ## Prepare your Document
 
 <div style="background-color: #ffe6e6; padding: 10px; border-left: 5px solid #ff5c5c; margin-top: 15px;"> 
-    <strong>Important:</strong> Download the Excel version of the 2023 curent report by agency
+    <strong>Important:</strong> Download the Excel version of the 2023 report by agency
     <a href="https://www.opm.gov/fevs/reports/data-reports/" target="_blank">here</a> 
     or use a more recent version if available.
 </div>
@@ -76,16 +76,15 @@ Each prompting technique below offers unique benefits depending on the depth of 
 
 Single-shot prompting uses a single, well-crafted prompt to get a comprehensive response from the AI, ideal when you need a quick summary or broad perspective.
 
-Prompt examples (choose one):
+Prompt example:
 
 ```text
-Compare the current Federal Employee Viewpoint Survey results [Paste link to this year's survey results] with last year's results [Paste link to last year's survey results] to identify the top three areas where employee satisfaction has shown the most improvement. 
+Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to Federal Employee Viewpoint Survey results]. Highlight any unique strengths that the [agency, e.g., Department of Justice (DOJ)] could build on.
 ```
-or
 
-```text
-Identify and summarize the top three areas where employees feel most supported and engaged based on the survey results from [Paste link to Federal Employee Viewpoint Survey results]. Highlight any unique strengths that the department could build on.
-```
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> 
+    <strong>Tip:</strong> Replace bracketed text with your specific agency, for example: "DOJ".
+</div>
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
@@ -98,11 +97,11 @@ Role prompting lets the AI take on a specific role, such as a senior manager foc
 Example prompt:
 
 ```text
-You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to Federal Employee Viewpoint Survey], identify key strengths within your focus area where the department’s scores are above the comparator group. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the department’s values.
+You are a senior manager responsible for [employee wellbeing]. Using data from [paste link to Federal Employee Viewpoint Survey], identify key strengths within your focus area where the [agency] scores are above other agencies. Then, propose specific actions or initiatives that could help reinforce these positive outcomes and support the [agency] values.
 ```
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> 
-    <strong>Tip:</strong> Replace bracketed text with your specific focus area for personalized recommendations.
+    <strong>Tip:</strong> Replace bracketed text with your specific agency, for example: "DOJ".
 </div>
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
@@ -119,7 +118,7 @@ Example Steps:
 - **Prompt 1:**
 
     ```text
-   Based on the Federal Employee Viewpoint Survey results, [paste link to Federal Employee Viewpoint Survey], what are the primary factors contributing to high employee engagement and satisfaction within the department? Highlight any patterns that stand out as strengths.
+   Based on the Federal Employee Viewpoint Survey results, [paste link to Federal Employee Viewpoint Survey], what are the primary factors contributing to high employee engagement and satisfaction within the [agency]? Highlight any patterns that stand out as strengths.
 
     ```
 
@@ -132,14 +131,18 @@ Example Steps:
 - **Prompt 3:**
 
     ```text
-    Finally, given these strategies, how could the department track continued success in engagement? Identify specific metrics or indicators that would demonstrate progress and recognize ongoing positive outcomes based on future survey results.
+    Finally, given these strategies, how could the [agency] track continued success in engagement? Identify specific metrics or indicators that would demonstrate progress and recognize ongoing positive outcomes based on future survey results.
     ```
+    
+<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;"> 
+    <strong>Tip:</strong> Replace bracketed text with your specific agency, for example: "DOJ".
+</div>
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
     <strong>Note:</strong> Be sure to copy Copilot's responses into the Word file you created earlier, titled <strong>Copilot Research.docx</strong>, so you can use them in the next task.
 </div>
 
 
-**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_2.html)
+**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Task_2.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/index_1.html)

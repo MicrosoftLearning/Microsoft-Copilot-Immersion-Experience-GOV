@@ -10,7 +10,7 @@ In this task, you’ll use Business Chat (BizChat) in Teams to gather insights f
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
     <strong>Optional:</strong> If you have Teams and Outlook downloaded on your mobile device, you can follow along with the mobile version of this task 
-    <a href="https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Task_3_mobile.html" target="_blank">here</a>.
+    <a href="https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Task_3_mobile.html" target="_blank">here</a>.
 </div>
 
 ## Steps
@@ -52,6 +52,6 @@ In this task, you’ll use Business Chat (BizChat) in Teams to gather insights f
 
 1.  Once the email is finalized, save it as a draft or send it directly through Outlook.
 
-[Optional Task: Collaborate using Pages](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/Instructions/Labs/PubSec/Optional_Task_1.html)
+[Optional Task: Collaborate using Pages](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Optional_Task_1.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/index_1.html)

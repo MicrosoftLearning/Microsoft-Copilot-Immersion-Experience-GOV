@@ -55,6 +55,6 @@ Utilize Copilot to spark creative thinking to generate at least one innovative a
 - You learned how to prompt Microsoft Copilot to quickly generate new ideas and export responses to Word, PDF, or text files.
 - You explored how to use Microsoft Copilot to conduct market research and identify competitors efficiently.
 
-**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/accelerate-creativity-with-microsoft-copilot/2-build-compelling-brand.html)
+**Next**: [Task 2](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/Task_2.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/accelerate-creativity-with-microsoft-copilot/index_1.html)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/index_1.html)

@@ -48,6 +48,6 @@ Using Copilot, create core branding elements by designing a logo and a catchy sl
 - You discovered how Copilot can generate images based on the context of your conversation.
 - You explored how to use Microsoft Copilot to efficiently create various creative outputs.
 
-**Next**: [Task 3](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/accelerate-creativity-with-microsoft-copilot/3-analyze-competition.html)
+**Next**: [Task 3](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/Task_3.html)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/accelerate-creativity-with-microsoft-copilot/index_1.html)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/index_1.html)

@@ -53,4 +53,4 @@ Using Copilot, perform a SWOT analysis for your top competitors and develop a un
 - You explored how Copilot can generate strategic insights to support decision-making.
 - You learned how to use Copilot to create a unique value proposition based on competitive data.
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/accelerate-creativity-with-microsoft-copilot/index_1.html)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/index_1.html)

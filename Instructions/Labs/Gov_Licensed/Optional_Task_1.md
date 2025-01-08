@@ -21,14 +21,14 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 1. Give your new page a title, such as "Federal Employee Viewpoint Survey Insights."
 
-1. In the body of Pages, paste the link to your **executive briefing.docx** document created in Task 2.
+1. In the body of Pages, paste the link to your **briefing.docx** document created in Task 2.
 
 1. Click below the inserted document and select the Copilot logo next to the text "Use Copilot or just start typing...".
 
 1. Type the following example prompt, or try your own prompt:
 
     ```text
-    Based on the findings [paste link to executive briefing.docx], what are the top three recommendations for enhancing employee engagement, inclusion, and wellbeing in our department?
+    Based on the findings [paste link to briefing.docx], what are the top three recommendations for enhancing employee engagement, inclusion, and wellbeing in our agency?
     ```
 
 1. Use Pages as a collaborative space to work with your colleagues in real-time. Share the page by typing the "@" symbol followed by a colleague’s name.
@@ -48,4 +48,4 @@ You can also share a page with a workspace in Loop by selecting the ellipsis (..
 
 ![Screenshot showing add to workspace.](../Media/add-to-workspace.png)
 
-[Back to Index](https://microsoftlearning.github.io/Microsoft-365-Copilot-Immersion-Experience/)
+[Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/index_1.html)
