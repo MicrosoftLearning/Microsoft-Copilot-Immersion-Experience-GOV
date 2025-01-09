@@ -40,7 +40,7 @@ Based on your research using BizChat, use Copilot in Word to draft a briefing of
 The iterative revision process enhances the quality, clarity, and impact of town hall briefing by making targeted adjustments based on audience needs. Here are example prompts to help refine specific sections:
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
-<strong>Note:</strong> If you’ve already selected **Keep it** in the Copilot window, click anywhere in the body of the Word document or highlight text to make the Copilot icon appear. Then, click the icon to reopen Copilot.</div>
+<strong>Note:</strong> If you’ve already selected **Keep it** in the Copilot window, select anywhere in the body of the Word document or highlight text to make the Copilot icon appear. Then, select the icon to reopen Copilot.</div>
 <BR>
 
 For example, you might start with an initial draft of a proposal and prompt the following:

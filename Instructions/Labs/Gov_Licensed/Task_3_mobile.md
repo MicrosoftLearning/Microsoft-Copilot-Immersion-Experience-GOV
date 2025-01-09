@@ -5,7 +5,7 @@ task:
 
 ## Steps 
 
-1. In **Microsoft Teams** on your mobile device, select **Copilot** at the top of the **Chat** pane.  This will open a **Copilot** window.
+1. In **Microsoft Teams** on your mobile device, select **Copilot** at the top of the **Chat** pane.  This opens a **Copilot** window.
     
     ![screenshot showing BizChat within Teams.](../Media/teams-copilot-mobile.png)
 

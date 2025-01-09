@@ -6,7 +6,7 @@ task:
 # Task 3: Review communications and send a follow-up email
 
 
-In this task, you’ll use Business Chat (BizChat) in Teams to gather insights from recent interactions with a specific person on a specific topic. This will help you quickly catch up on recent communications, ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook to draft a follow-up email using Copilot in Outlook, allowing you to respond promptly and effectively based on your findings.
+In this task, you’ll use Business Chat (BizChat) in Teams to gather insights from recent interactions with a specific person on a specific topic. This helps you quickly catch up on recent communications, ensuring you’re well-prepared to follow up. Then, you’ll switch to Outlook to draft a follow-up email using Copilot in Outlook, allowing you to respond promptly and effectively based on your findings.
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">
     <strong>Optional:</strong> If you have Teams and Outlook downloaded on your mobile device, you can follow along with the mobile version of this task 
@@ -15,7 +15,7 @@ In this task, you’ll use Business Chat (BizChat) in Teams to gather insights f
 
 ## Steps
 
-1. In **Microsoft Teams**, select **Copilot** at the top of the **Chat** pane.  This will open a **Copilot** window.
+1. In **Microsoft Teams**, select **Copilot** at the top of the **Chat** pane.  This opens a **Copilot** window.
     
     ![screenshot showing BizChat within Teams.](../Media/business-chat-in-teams.png)
 

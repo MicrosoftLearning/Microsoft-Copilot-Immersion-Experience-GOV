@@ -10,10 +10,10 @@ layout: home
 
 The demos for this course are based on the demos from the accelerator kit <a href="https://microsoft.seismic.com/Link/Content/DCJC9CXBThjcFGfJjJXMQ2jXqfCG" target="_blank">Demo Guide and Talking Points.docx</a>.
 
-It is important that you familiarize yourself with the demos prior to delivering this training. For several labs, you'll utilize sample documents and pre-created Teams meetings and emails.
+It's important that you familiarize yourself with the demos prior to delivering this training. For several labs, you'll utilize sample documents and precreated Teams meetings and emails.
 
 <ul>
-  <li>Pre-download all sample documents <a href="https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/tree/master/ResourceFiles" target="_blank">here</a>.</li>
+  <li>Predownload all sample documents <a href="https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/tree/master/ResourceFiles" target="_blank">here</a>.</li>
   <li>Setup Teams meetings and email threads by following the instructions <a href="https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG" target="_blank">here</a>.</li>
   <li>Familiarize yourself with the immersion experiences found below.</li>
 </ul>
@@ -25,7 +25,7 @@ It is important that you familiarize yourself with the demos prior to delivering
 
 In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
 
-You will perform four tasks:
+You'll perform four tasks:
 
 - Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat
 - Task 2: Draft a document using Microsoft 365 Copilot in Word
@@ -38,7 +38,7 @@ You will perform four tasks:
 
 In this interactive module, you'll experience firsthand how Microsoft Copilot can streamline your workflow. Through a series of exercises, you'll learn to use Microsoft Copilot to generate innovative ideas, create compelling branding, and analyze the competitive landscape, all while boosting productivity and strategic insights.
 
-You will perform three tasks:
+You'll perform three tasks:
 
 - Task 1: Brainstorm innovative ideas
 - Task 2: Create brand identity and marketing assets

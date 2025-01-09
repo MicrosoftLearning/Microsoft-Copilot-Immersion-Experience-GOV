@@ -48,9 +48,9 @@ In this task, you'll use Microsoft 365 Business Chat (BizChat) to uncover action
 
 ## Steps
 
-1. Launch **BizChat** by opening a new Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.
+1. Launch **BizChat** by opening a new Microsoft Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/chat" target="_blank">m365.cloud.microsoft/chat</a>.
 
-1. Log into your work account if prompted.
+1. Log in to your work account if prompted.
 
 1. With **BizChat** open, ensure that the **Work tab** is selected:
 

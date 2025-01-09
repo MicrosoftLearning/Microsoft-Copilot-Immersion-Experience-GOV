@@ -9,9 +9,9 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 ## Steps
 
-1. To launch Pages, open a new Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/pages/" target="_blank">m365.cloud.microsoft/pages</a>.
+1. To launch Pages, open a new Microsoft Edge browser tab and navigate to <a href="https://m365.cloud.microsoft/pages/" target="_blank">m365.cloud.microsoft/pages</a>.
 
-1. If prompted, log into your work account.
+1. If prompted, log in to your work account.
 
 1. If you've never used Pages before, select **Create new page** when prompted. 
 
@@ -23,7 +23,7 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 1. In the body of Pages, paste the link to your **briefing.docx** document created in Task 2.
 
-1. Click below the inserted document and select the Copilot logo next to the text "Use Copilot or just start typing...".
+1. Select below the inserted document and select the Copilot logo next to the text "Use Copilot or just start typing...".
 
 1. Type the following example prompt, or try your own prompt:
 
@@ -33,7 +33,7 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 
 1. Use Pages as a collaborative space to work with your colleagues in real-time. Share the page by typing the "@" symbol followed by a colleague’s name.
 
-1. After adding your colleague, click on their name to give them access. They will receive an email notification with a link to collaborate on the page.
+1. After adding your colleague, click on their name to give them access. They'll receive an email notification with a link to collaborate on the page.
 
     ![Screenshot showing share and notify in pages.](../Media/share.png)
 
