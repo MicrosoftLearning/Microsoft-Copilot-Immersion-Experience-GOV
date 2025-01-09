@@ -8,17 +8,20 @@ layout: home
 
 ## Content Directory
 
-The demos for this course are based on the demos from the accelerator kit [Demo Guide and Talking Points.docx](https://microsoft.seismic.com/Link/Content/DCJC9CXBThjcFGfJjJXMQ2jXqfCG).
+The demos for this course are based on the demos from the accelerator kit <a href="https://microsoft.seismic.com/Link/Content/DCJC9CXBThjcFGfJjJXMQ2jXqfCG" target="_blank">Demo Guide and Talking Points.docx</a>.
 
 It is important that you familiarize yourself with the demos prior to delivering this training. For several labs, you'll utilize sample documents and pre-created Teams meetings and emails.
 
-- Pre-download all sample documents [here](https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/tree/master/Resourcefiles).
-- Setup Teams meetings and email threads by following the instructions [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG).
-- Familiarize yourself with the Interactive experience found [here](https://aka.ms/CopilotWebEE).
+<ul>
+  <li>Pre-download all sample documents <a href="https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/tree/master/Resourcefiles" target="_blank">here</a>.</li>
+  <li>Setup Teams meetings and email threads by following the instructions <a href="https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG" target="_blank">here</a>.</li>
+  <li>Familiarize yourself with the Interactive experience found <a href="https://aka.ms/CopilotWebEE" target="_blank">here</a>.</li>
+</ul>
 
 ## Immersion Experiences (Customer facing)
 
-### [MS-4008: Microsoft 365 Copilot Interactive Experience (US Gov - Licensed):](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/index_1.html)
+### <a href="https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/index_1.html" target="_blank">MS-4008: Microsoft 365 Copilot Interactive Experience (US Gov - Licensed):</a>
+
 
 In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
 
@@ -30,7 +33,8 @@ You will perform four tasks:
 - Optional Task: Collaborate using Pages
 
 
-### [MS-4012: Microsoft Copilot Interactive Experience (US Gov - Unlicensed)](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/index_1.html)
+### <a href="https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/index_1.html" target="_blank">MS-4012: Microsoft Copilot Interactive Experience (US Gov - Unlicensed)</a>
+
 
 In this interactive module, you'll experience firsthand how Microsoft Copilot can streamline your workflow. Through a series of exercises, you'll learn to use Microsoft Copilot to generate innovative ideas, create compelling branding, and analyze the competitive landscape, all while boosting productivity and strategic insights.
 
