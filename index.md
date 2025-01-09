@@ -13,9 +13,9 @@ The demos for this course are based on the demos from the accelerator kit <a hre
 It is important that you familiarize yourself with the demos prior to delivering this training. For several labs, you'll utilize sample documents and pre-created Teams meetings and emails.
 
 <ul>
-  <li>Pre-download all sample documents <a href="https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/tree/master/Resourcefiles" target="_blank">here</a>.</li>
+  <li>Pre-download all sample documents <a href="https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/tree/master/ResourceFiles" target="_blank">here</a>.</li>
   <li>Setup Teams meetings and email threads by following the instructions <a href="https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG" target="_blank">here</a>.</li>
-  <li>Familiarize yourself with the Interactive experience found <a href="https://aka.ms/CopilotWebEE" target="_blank">here</a>.</li>
+  <li>Familiarize yourself with the immersion experiences found below.</li>
 </ul>
 
 ## Immersion Experiences (Customer facing)
