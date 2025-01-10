@@ -5,7 +5,7 @@ task:
 
 ## Microsoft 365 Copilot Immersion Experience 
 
-In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
+In this immersion experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
 
 - You'll have about 25 minutes to complete all the tasks.
 - In a new Microsoft Edge browser tab, enter (<a href="https://word.new" target="_blank">word.new</a>), then save it to your OneDrive account as '**Copilot Research.docx**'.

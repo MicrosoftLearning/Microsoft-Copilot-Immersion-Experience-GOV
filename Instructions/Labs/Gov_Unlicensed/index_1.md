@@ -5,7 +5,7 @@ task:
 
 ## Microsoft Copilot Immersion Experience
 
-In this interactive experience, you'll envision and develop a new government service, program, or initiative that addresses a specific public need or gap, whether focused on real-world challenges or imagined possibilities.
+In this immersion experience, you'll envision and develop a new government service, program, or initiative that addresses a specific public need or gap, whether focused on real-world challenges or imagined possibilities.
 
 - You'll have about 15 minutes to complete the objective.
 - In a new Microsoft Edge browser tab, enter (<a href="https://word.new" target="_blank">word.new</a>), then save a new document titled 'Copilot Research' to your OneDrive account.

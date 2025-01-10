@@ -22,7 +22,7 @@ The specific files being used in this exercise are:
 
 ## Talking Points
 
-In the Interactive Experience, we brainstormed new app or service ideas, created brand identity and marketing assets, and analyzed the competitive landscape. But how can we take this a step further?
+In the Immersion Experience, we brainstormed new app or service ideas, created brand identity and marketing assets, and analyzed the competitive landscape. But how can we take this a step further?
 
 With Copilot in Word, we can transform the process of document creation and refinement, enabling you to produce compelling content with ease.
 

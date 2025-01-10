@@ -20,10 +20,10 @@ It's important that you familiarize yourself with the demos prior to delivering 
 
 ## Immersion Experiences (Customer facing)
 
-### <a href="https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/index_1.html" target="_blank">MS-4008: Microsoft 365 Copilot Interactive Experience (US Gov - Licensed):</a>
+### <a href="https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/index_1.html" target="_blank">MS-4008: Microsoft 365 Copilot Immersion Experience (US Gov - Licensed):</a>
 
 
-In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
+In this immersion experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
 
 You'll perform four tasks:
 
@@ -33,10 +33,10 @@ You'll perform four tasks:
 - Optional Task: Collaborate using Pages
 
 
-### <a href="https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/index_1.html" target="_blank">MS-4012: Microsoft Copilot Interactive Experience (US Gov - Unlicensed)</a>
+### <a href="https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Unlicensed/index_1.html" target="_blank">MS-4012: Microsoft Copilot Immersion Experience (US Gov - Unlicensed)</a>
 
 
-In this interactive module, you'll experience firsthand how Microsoft Copilot can streamline your workflow. Through a series of exercises, you'll learn to use Microsoft Copilot to generate innovative ideas, create compelling branding, and analyze the competitive landscape, all while boosting productivity and strategic insights.
+In this immersion module, you'll experience firsthand how Microsoft Copilot can streamline your workflow. Through a series of exercises, you'll learn to use Microsoft Copilot to generate innovative ideas, create compelling branding, and analyze the competitive landscape, all while boosting productivity and strategic insights.
 
 You'll perform three tasks:
 
