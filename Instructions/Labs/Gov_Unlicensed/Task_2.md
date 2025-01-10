@@ -5,11 +5,9 @@ task:
 
 # Task 2: Build a compelling brand using Microsoft Copilot
 
-Using Copilot, create core branding elements by designing a logo and a catchy slogan that embody the essence of your app or service.
+Using Copilot, create key identity elements by designing a logo and a concise, mission-driven tagline that embodies the essence of your service, program, or initiative.
 
-<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
-    <strong>Note:</strong> In the instructions below, we will provide a sample prompt for each step. While you have the option to copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. Remember to enjoy the process!
-</div>
+Based on the insights and research from Task 1, this task focuses on creating branding elements that reflect your initiative’s mission and values.
 
 ## Steps
 
@@ -17,30 +15,37 @@ Using Copilot, create core branding elements by designing a logo and a catchy sl
 
     1. In **Microsoft Copilot**, copy and paste the sample prompt into the prompt field:
 
+        ```text
+        Create a clear and professional logo for a/an [service/program/initiative] named [Service/Program/Initiative Name], designed to resonate with [target audience/sector]. The logo should reflect [desired qualities, e.g., innovation, reliability]. 
         ```
-        Create a simple and modern logo for an [app or service] named [App/Service Name] that targets [target audience/industry]. The logo should convey [desired qualities, e.g., innovation, reliability].
-        ```
-
-        <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
-            <strong>Note:</strong> Replace the text within brackets with your specific choice (e.g., replace `[App/Service Name]` with `ContosoFit` and `[target audience/industry]` with `fitness enthusiasts/health and wellness`).
+    
+        <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin: 15px 0;">
+            <strong>Note:</strong> Replace the text within brackets with your specific choice. For example:
+            <ul>
+                <li><code>[Service/Program/Initiative name]</code> → <em>Eco-Citizen Network</em></li>
+                <li><code>[target audience/sector]</code> → <em>local communities</em></li>
+            </ul>
         </div>
 
-
-    1. Optionally, you can download the image created by selecting the download icon to the right of the generated image.
+    1. Optionally, you can download the image by clicking the download icon located next to the generated image preview.
 
         ![Screenshot showing Microsoft Copilot download image option.](../Media/download-image.png)
-
-
+    
 - **Generate a Marketing Slogan**:
 
-    With your app or service name and logo in mind, use the following prompt to generate a marketing slogan:
+    With your service, program, or initiative name and logo in mind, use the following prompt to generate a mission-driven tagline:
 
     ```
-    Generate a catchy marketing slogan for [App/Service Name] that highlights its unique value proposition and appeals to [target audience].
+    Generate a concise and impactful mission-driven tagline for [Service/Program/Initiative Name] that highlights its value, unique contribution to addressing [specific need], while resonating with [target audience/sector].  
     ```
 
-    <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
-        <strong>Note:</strong> Replace the text within brackets with your specific choice.
+    <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin: 15px 0;">
+        <strong>Note:</strong> Replace the text within brackets with your specific choice. For example:
+        <ul>
+            <li><code>[Service/Program/Initiative Name]</code> → <em>Eco-Citizen Network</em></li>
+            <li><code>[specific need]</code> → <em>reducing environmental impact</em></li>
+            <li><code>[target audience/sector]</code> → <em>local communities</em></li>
+        </ul>
     </div>
 
 ### Key takeaways

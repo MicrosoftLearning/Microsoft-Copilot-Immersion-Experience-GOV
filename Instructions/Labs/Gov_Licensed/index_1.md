@@ -8,7 +8,7 @@ task:
 In this interactive experience, you'll get inspired and use Microsoft 365 Copilot to streamline tasks such as research, drafting documents, drafting emails, and more.
 
 - You'll have about 25 minutes to complete all the tasks.
-- In a Microsoft Edge browser, enter (<a href="https://word.new" target="_blank">word.new</a>), then save it to your OneDrive account as '**Copilot Research.docx**'.
+- In a new Microsoft Edge browser tab, enter (<a href="https://word.new" target="_blank">word.new</a>), then save it to your OneDrive account as '**Copilot Research.docx**'.
 - Try different Copilots, experiment with prompts to see what works best, and enjoy the creative process!
 
 <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4;">

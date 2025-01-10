@@ -9,7 +9,7 @@ demo:
 
 ## Demo Setup
 
-Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
+Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/Microsoft-Copilot-Immersion-Experience-GOV/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx). You'll use this file to run the demo steps outlined in this guide.
 
 
 ## Talking Points
@@ -36,8 +36,8 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
    Calculate monthly revenue by product and add a column with total revenue - refer to the Prices worksheet.
    ```
     - Copilot knows how to do that and which data to reference across tabs. 
-    - Copilot creates a plan for how it will run those numbers, executes that plan showing its work as it goes, and prompts you to ask questions or iterate on the solution it reached.
-    - Click **+Insert column**, then navigate back to the **Sales by Product** tab.
+    - Copilot creates a plan for how it runs those numbers, executes that plan showing its work as it goes, and prompts you to ask questions or iterate on the solution it reached.
+    - Select **+Insert column**, then navigate back to the **Sales by Product** tab.
    
 
 1. Use Copilot to analyze revenue by entering the following prompt in the Copilot pane:
@@ -46,8 +46,8 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
     What is the total revenue for each category so far in 2024?
     ```
 
-    - Copilot will run the numbers and create a bar chart that you can add to your workbook.
-    - Click **+Add to a new sheet**, then navigate back to the **Sales by Product** tab.
+    - Copilot runs the numbers and create a bar chart that you can add to your workbook.
+    - Select **+Add to a new sheet**, then navigate back to the **Sales by Product** tab.
 
 1. Now, use Copilot to highlight products with low sales by entering this prompt:
 
@@ -55,7 +55,7 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
     Highlight rows where the value in column H is less than $100K.
     ```
 
-    - Copilot will apply conditional formatting, helping you identify products that aren’t performing to your standards.
+    - Copilot applies conditional formatting, helping you identify products that aren’t performing to your standards.
 
 1. **Navigate to the "Reviews" tab** to analyze customer feedback.
 
@@ -65,7 +65,7 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
     Summarize the top 3 customer concerns we should focus on.
     ```
 
-    - Copilot will analyze the feedback and surface the top three customer concerns. It looks like charging speed is an emerging issue.
+    - Copilot analyzes the feedback and surface the top three customer concerns. It looks like charging speed is an emerging issue.
 
 1. Next, highlight reviews mentioning charging speed by entering this prompt:
 
@@ -73,7 +73,7 @@ With Copilot, you can easily extract meaningful insights to inform better decisi
     Highlight reviews that mention issues related to charging speeds.
     ```
 
-    - Copilot will highlight all relevant reviews in the dataset.
+    - Copilot highlights all relevant reviews in the dataset.
 
 ### Wrap-up
 

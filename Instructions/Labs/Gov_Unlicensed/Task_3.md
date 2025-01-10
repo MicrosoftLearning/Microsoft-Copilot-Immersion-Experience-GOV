@@ -5,31 +5,31 @@ task:
 
 # Task 3:  Analyze the competitive landscape using Microsoft Copilot
 
-Using Copilot, perform a SWOT analysis for your top competitors and develop a unique value proposition that differentiates your app or service from the competition. This will result in a comprehensive competitive analysis report and a compelling unique value proposition statement.
+Using Copilot, perform a SWOT analysis of comparable offerings identified in Task 1 and develop a unique value proposition that distinguishes your proposed service, program, or initiative by addressing unmet public needs or gaps. This results in a comprehensive analysis report and a compelling unique value proposition statement aligned with your service's goals.
 
-<div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
-    <strong>Note:</strong> In the instructions below, we will provide a sample prompt for each step. While you have the option to copy and paste these prompts, we encourage you to personalize them in your own style. Be creative and experiment. If Copilot doesn't give you the desired output initially, refine your prompt and try again. Remember to enjoy the process!
-</div>
+Using the offerings identified in Task 1 and the branding developed in Task 2, this task focuses on strategic analysis to differentiate your initiative.
 
 ## Steps
 
-- **Analyze Competitors**:
+- **Analyze Comparable Offerings**:
 
     1. Launch your browser and navigate to [Copilot.Microsoft.com](https://copilot.microsoft.com).
-
-    1. Sign in using your personal Microsoft account (no Copilot license required).
-
-    1. In **Microsoft Copilot**, copy and paste the sample prompt into the prompt field:
-
-        **Sample Prompt**
-
+    2. Sign in using your personal Microsoft account (no Copilot license required).
+    3. In **Microsoft Copilot**, copy and paste the sample prompt into the prompt field:
+        ```text
+        Perform a SWOT analysis for the following comparable offerings in [sector]: [Offering 1], [Offering 2]. Highlight their strengths, weaknesses, opportunities, and threats.
         ```
-        Perform a SWOT analysis for the following competitors in the [industry/sector]: [Competitor 1], [Competitor 2], [Competitor 3]. Highlight their strengths, weaknesses, opportunities, and threats.
-        ```
-
-        <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
-            <strong>Note:</strong> Replace the text within brackets with your specific choice (e.g., replace `[industry/sector]` with `fitness` and `[Competitor 1], [Competitor 2], [Competitor 3]` with the names of your main competitors found from the first task).
+        
+        <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin: 15px 0;">
+            <strong>Note:</strong> Replace the text within brackets with your specific choice. For example:
+            <ul>
+                <li><code>[sector]</code> → <em>environmental protection</em></li>
+                <li><code>[Offering 1], [Offering 2]</code> → <em>Replace with the names of comparable offerings found from the first task</em></li>
+            </ul>
         </div>
+
+    4. Optionally, organize your SWOT findings into a table in Word or Excel for better visualization.
+    
 
 - **Develop a Unique Value Proposition**:
 
@@ -37,12 +37,16 @@ Using Copilot, perform a SWOT analysis for your top competitors and develop a un
 
         **Sample Prompt**
 
+        ```text
+        Based on the SWOT analysis, develop a unique value proposition for our new [service/program/initiative] idea that differentiates it from the comparable offerings and highlights its key benefits. Overview: [Service/Program/Initiative Name] - [overview/summary of service, program, or initiative]. 
         ```
-        Based on the SWOT analysis, develop a unique value proposition for our new [app/service] idea that differentiates it from the competitors and highlights its key benefits. Overview: [App/Service name] - [overview/summary of app or service].
-        ```
-
-        <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin-top: 15px; margin-bottom: 15px;">
-            <strong>Note:</strong> Replace the text within brackets with your specific choice (e.g., replace `[app/service]` with `fitness app` and `[App/Service name]` with the name of your app or service).
+    
+        <div style="background-color: #e0f7ff; padding: 10px; border-left: 5px solid #0078D4; margin: 15px 0;">
+            <strong>Note:</strong> Replace the text within brackets with your specific choice. For example:
+            <ul>
+                <li><code>[Service/Program/Initiative Name]</code> → <em>Eco-Citizen Network</em></li>
+                <li><code>[overview/summary of service, program, or initiative]</code> → <em>A program empowering communities to adopt eco-friendly practices</em></li>
+            </ul>
         </div>
 
     1. Optionally, you can save the output of your unique value proposition to a new Word document to reference in the future.
