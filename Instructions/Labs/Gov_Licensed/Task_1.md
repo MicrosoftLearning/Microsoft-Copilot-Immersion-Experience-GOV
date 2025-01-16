@@ -13,6 +13,7 @@ In this task, you'll use Microsoft 365 Copilot Chat (Copilot Chat) to uncover ac
     <strong>Important:</strong> Download the Excel version of the 2023 report by agency
     <a href="https://www.opm.gov/fevs/reports/data-reports/" target="_blank">here</a> 
     or use a more recent version if available.
+    <img src="../Media/current-report.png" alt="Current Report Preview" style="margin-top: 10px; max-width: 100%; height: auto;">
 </div>
 
 1. In **Excel**, open the Federal Employee Viewpoint Survey document you’d like to use for this task.
