@@ -40,9 +40,9 @@ In this task, you’ll explore the new **Pages** functionality, a dynamic, share
 1. Once your colleague has access, you can work together to refine the recommendations, add supporting data, and organize ideas into actionable steps.
 
 ### **TIP**:
- When using BizChat with the **work** tab selected, you can send Copilot's response directly to a new page by selecting **Edit in Pages**:
+ When using Copilot Chat with the **work** tab selected, you can send Copilot's response directly to a new page by selecting **Edit in Pages**:
 
-![Screenshot showing edit in pages within bizchat.](../Media/edit-in-pages.png)
+![Screenshot showing edit in pages within Copilot Chat.](../Media/edit-in-pages.png)
 
 You can also share a page with a workspace in Loop by selecting the ellipsis (...) next to any page:
 

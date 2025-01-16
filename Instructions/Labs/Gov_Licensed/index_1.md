@@ -17,9 +17,9 @@ In this immersion experience, you'll get inspired and use Microsoft 365 Copilot 
 
 You'll perform four tasks:
 
-### [Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Task_1.html)
+### [Task 1: Streamline Data Analysis & Insights with Microsoft 365 Copilot Chat](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Task_1.html)
 
-Using **Microsoft 365 Business Chat (BizChat)**, you'll uncover actionable insights from your Federal Employee Viewpoint Survey results, identifying key agency trends to inform decision-making and strategic planning.
+Using **Microsoft 365 Copilot Chat (Copilot Chat)**, you'll uncover actionable insights from your Federal Employee Viewpoint Survey results, identifying key agency trends to inform decision-making and strategic planning.
 
 ### [Task 2: Draft a document using Microsoft 365 Copilot in Word](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Task_2.html)
 
@@ -27,7 +27,7 @@ Using **Copilot in Word**, draft a briefing of key findings from the Federal Emp
 
 ### [Task 3: Gathering Insights and Drafting a Follow-up Email](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Task_3.html)
 
-Using **Business Chat (BizChat) in Teams**, gather insights from recent interactions with a specific person on a specific topic. This helps you quickly catch up on recent communications, ensuring you’re well-prepared to follow up. Then, switch to Outlook to draft a follow-up email with Copilot, allowing you to respond promptly and effectively based on your findings.
+Using **Copilot Chat in Teams**, gather insights from recent interactions with a specific person on a specific topic. This helps you quickly catch up on recent communications, ensuring you’re well-prepared to follow up. Then, switch to Outlook to draft a follow-up email with Copilot, allowing you to respond promptly and effectively based on your findings.
 
 ### [Optional Task: Collaborate using Pages](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/Instructions/Labs/Gov_Licensed/Optional_Task_1.html)
 

@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Demo: Microsoft Copilot (copilot.microsoft.com)'
+    title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/Microsoft-Copilot-Immersion-Experience-GOV/)
@@ -37,15 +37,15 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 1. Sign into a nonwork microsoft account.
 
-    > **NOTE:** If you sign into your work account, you will  redirected to Business chat (m365.cloud.microsoft/chat) 
+    > **NOTE:** If you sign into your work account, you will  redirected to Microsoft 365 Copilot Chat (m365.cloud.microsoft/chat) 
 
-1. In the **Message Copilot** text box, copy and paste the prompt from the prompt library documents or type:
+1. In the **Ask me anything...** text box, copy and paste the prompt from the prompt library documents or type:
 
     ```text
     What can you tell me about elephants?
     ```
 1. Select the **Submit** button.
-1. In the **Message Copilot** text box, copy and paste the prompt:
+1. In the **Ask me anything...** text box, copy and paste the prompt:
 
     ```text
     I’m more interested in the power of an elephant. How many humans would it take to win a tug-of-war with an elephant?
@@ -64,7 +64,7 @@ We can ground our questions in all kinds of data and documents, for example, the
 
 1. Start a new topic, by clicking **view history** and then **Start new chat**.
 
-1. In the **Message Copilot** text box, copy and paste the prompt:
+1. In the **Ask me anything...** text box, copy and paste the prompt:
 
     ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years?
@@ -90,7 +90,7 @@ Over time, we expect these kinds of processes to become easier and more automate
 
 1. Start a new topic, by clicking **view history** and then **Start new chat**.
 
-1. In the **Message Copilot** text box, copy and paste the prompt:
+1. In the **Ask me anything...** text box, copy and paste the prompt:
 
     ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
@@ -109,7 +109,7 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 1. At the bottom of the page, select the Plus (**+**) icon.
 
 1. Browse to where you downloaded the image, select **What is this picture.png**, and then select **Open**.
-1. In the **Message Copilot…** text box type the prompt:
+1. In the **Ask me anything...…** text box type the prompt:
 
     ```text
     What is this picture?
@@ -119,7 +119,7 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 ### Show How Copilot Can Create Images
 
-1. In the **Message Copilot** text box, copy and paste the prompt:
+1. In the **Ask me anything...** text box, copy and paste the prompt:
 
     ```text
     Copilot, make a banner for a hamburger stand. Make it friendly and show people enjoying a hamburger.
