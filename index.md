@@ -27,7 +27,7 @@ In this immersion experience, you'll get inspired and use Microsoft 365 Copilot 
 
 You'll perform four tasks:
 
-- Task 1: Streamline Data Analysis & Insights with Microsoft 365 Business Chat
+- Task 1: Streamline Data Analysis & Insights with Microsoft 365 Copilot Chat
 - Task 2: Draft a document using Microsoft 365 Copilot in Word
 - Task 3: Gathering Insights and Drafting a Follow-up Email
 - Optional Task: Collaborate using Pages
