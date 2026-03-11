@@ -1,6 +1,16 @@
 ---
-task:
-    title: 'Task 3: Analyze the competitive landscape using Microsoft Copilot'
+lab:
+  title: 'Task 3:  Analyze the competitive landscape using Microsoft Copilot'
+  description: Using Copilot, perform a SWOT analysis of comparable offerings identified
+    in Task 1 and develop a unique value proposition that distinguishes your proposed
+    service, program, or initiative by addressing unmet public needs or gaps. This
+    results in a comprehensive analysis report and a compelling unique value proposition
+    statement aligned with your service's goals.
+  duration: 26 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft Copilot
 ---
 
 # Task 3:  Analyze the competitive landscape using Microsoft Copilot
