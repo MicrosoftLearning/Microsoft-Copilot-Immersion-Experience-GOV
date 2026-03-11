@@ -1,6 +1,14 @@
 ---
-task:
-    title: 'Task 2: Build a compelling brand using Microsoft Copilot'
+lab:
+  title: 'Task 2: Build a compelling brand using Microsoft Copilot'
+  description: Using Copilot, create key identity elements by designing a logo and
+    a concise, mission-driven tagline that embodies the essence of your service, program,
+    or initiative.
+  duration: 18 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft Copilot
 ---
 
 # Task 2: Build a compelling brand using Microsoft Copilot
