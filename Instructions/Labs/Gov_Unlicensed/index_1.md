@@ -1,6 +1,12 @@
 ---
-task:
-    title: 'Index 1'
+lab:
+  title: Untitled exercise
+  description: In this immersion experience, you'll envision and develop a new government
+    service, program, or initiative that addresses a specific public need or gap,
+    whether focused on real-world challenges or imagined possibilities.
+  duration: 15 minutes
+  level: 200
+  islab: true
 ---
 
 ## Microsoft Copilot Immersion Experience
