@@ -1,6 +1,14 @@
 ---
-task:
-    title: 'Task 1: Brainstorm your idea using Microsoft Copilot'
+lab:
+  title: 'Task 1: Brainstorm your idea using Microsoft Copilot'
+  description: Use Copilot to develop ideas for a new government service, program,
+    or initiative that addresses a specific public need or gap. Research similar offerings,
+    identify relevant trends, and create a list of comparable examples.
+  duration: 26 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft Copilot
 ---
 
 # Task 1: Brainstorm your idea using Microsoft Copilot
