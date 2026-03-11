@@ -1,6 +1,15 @@
 ---
-task:
-    title: 'Index 1'
+lab:
+  title: Untitled exercise
+  description: In this immersion experience, you'll get inspired and use Microsoft
+    365 Copilot to streamline tasks such as research, drafting documents, drafting
+    emails, and more.
+  duration: 25 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
 
 ## Microsoft 365 Copilot Immersion Experience 
